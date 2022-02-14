@@ -1,4 +1,4 @@
-#Color Identification
+**Color Identification**
 + **Creative Space:** Using Open-cv & K-means clustering, segmenting an unlabeled territory map by color.
 
 **Author: Ramsis Hammadi**
